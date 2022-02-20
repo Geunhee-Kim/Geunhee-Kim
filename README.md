@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @Geunhee-Kim
+👋 Hi, I’m @Geunhee-Kim
+KAIST BS
